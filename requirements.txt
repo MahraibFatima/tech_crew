@@ -1,0 +1,4 @@
+langchain-core==0.1.53
+langsmith>=0.1.0,<0.2.0
+litellm
+crewai
